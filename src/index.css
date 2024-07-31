@@ -1,0 +1,17 @@
+/* Ensure body takes up full height */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  /* Center content vertically and horizontally */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+input {
+  flex: 1;
+}
