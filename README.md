@@ -20,4 +20,4 @@ You can edit task: you can edit task Title and description using edit button
 ![Alt text](../Todo/images/error.png)
 
 # delete task
-![Alt text](../Todo/images/delete.png)
+![Alt text](images/delete.png)
